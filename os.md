@@ -6,10 +6,6 @@ List of embedded microcontroller platforms including:
 * simple schedulers
 * massive frameworks
 
-## Contributing
-
-Pull requests welcome.
-
 ## Active
 
 | Name  | Platforms  |  Description | License  |  Last Update |
