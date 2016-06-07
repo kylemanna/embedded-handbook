@@ -17,10 +17,12 @@ Pull requests welcome.
 | [ChibiOS](http://www.chibios.org)  |   |   |   |   |
 | [NuttX](http://nuttx.org/)  |   |   |   |   |
 | [distortos](http://distortos.org/)  |   |   |   |   |
+| [ARM CMSIS-RTOS RTX](http://www.keil.com/pack/doc/CMSIS/RTX/html/index.html)  |   |   |   |   |
 
 ## Possibly Inactive
 
 | Name  | Platforms  |  Description | License  |  Last Update |
 |---|---|---|---|---|
 | [Protothreads](http://dunkels.com/adam/pt/)  |   |   |   |   |
+| [mbed Classic](http://dunkels.com/adam/pt/)  |  Was original web based IDE and RTX backed platform.  Appears to be [moving to mbedOS](https://www.mbed.com/en/development/software/mbed-os/mbed-os-migration-plan/) follow ARM acquisition. |   |   |   |
 
