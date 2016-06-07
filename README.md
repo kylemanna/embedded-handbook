@@ -1,6 +1,12 @@
 # Embedded Operating Systems
 
-List of Embedded Microcontroller Simple operating systems, realtime operating systems (RTOS), and just schedulers.
+List of embedded microcontroller platforms including:
+* simple operating systems
+* realtime operating systems (RTOS)
+* simple schedulers
+* massive frameworks
+
+## Contributing
 
 Pull requests welcome.
 
@@ -19,10 +25,13 @@ Pull requests welcome.
 | [distortos](http://distortos.org/)  |   |   |   |   |
 | [ARM CMSIS-RTOS RTX](http://www.keil.com/pack/doc/CMSIS/RTX/html/index.html)  |   |   |   |   |
 
-## Possibly Inactive
+## Inactive / Deprecated
 
 | Name  | Platforms  |  Description | License  |  Last Update |
 |---|---|---|---|---|
 | [Protothreads](http://dunkels.com/adam/pt/)  |   |   |   |   |
 | [mbed Classic](http://dunkels.com/adam/pt/)  |  Was original web based IDE and RTX backed platform.  Appears to be [moving to mbedOS](https://www.mbed.com/en/development/software/mbed-os/mbed-os-migration-plan/) follow ARM acquisition. |   |   |   |
 
+## More
+
+* [OSRTOS](http://www.osrtos.com/) - List of embedded operating systems
