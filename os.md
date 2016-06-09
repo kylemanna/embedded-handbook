@@ -21,6 +21,9 @@ List of embedded microcontroller platforms including:
 | [distortos](http://distortos.org/)  |   |   |   |   |
 | [ARM CMSIS-RTOS RTX](http://www.keil.com/pack/doc/CMSIS/RTX/html/index.html)  |   |   |   |   |
 | [Contiki OS](http://www.contiki-os.org/)  |  AVR, MSP430, PIC32MX |  Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet | [BSD](http://www.contiki-os.org/license.txt)  | 2015.08.25  |
+| [LiteBSD](https://github.com/sergev/LiteBSD)  | PIC32MZ  |  Variant of 4.4BSD Unix for microcontrollers | [BSD](https://github.com/sergev/LiteBSD/blob/master/COPYRIGHT)  |   |
+
+
 ## Inactive / Deprecated
 
 | Name  | Platforms  |  Description | License  |  Last Update |
