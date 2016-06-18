@@ -23,6 +23,7 @@ List of embedded microcontroller platforms including:
 | [Contiki OS](http://www.contiki-os.org/)  |  AVR, MSP430, PIC32MX |  Contiki is an open source operating system for the Internet of Things. Contiki connects tiny low-cost, low-power microcontrollers to the Internet | [BSD](http://www.contiki-os.org/license.txt)  | 2015.08.25  |
 | [LiteBSD](https://github.com/sergev/LiteBSD)  | PIC32MZ  |  Variant of 4.4BSD Unix for microcontrollers | [BSD](https://github.com/sergev/LiteBSD/blob/master/COPYRIGHT)  |   |
 | [TinyOS](https://github.com/tinyos/tinyos-main)  |   |  TinyOS is an open source operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters. | [BSD](https://github.com/tinyos/tinyos-main/blob/master/licenses/bsd.txt)  |   |
+| [Tock](http://www.tockos.org/)  |  Cortex-M |  Tock is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms like the Storm. | [Apache](https://github.com/helena-project/tock/blob/master/LICENSE)  |   |
 
 ## Inactive / Deprecated
 
