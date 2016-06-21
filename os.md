@@ -10,7 +10,7 @@ List of embedded microcontroller platforms including:
 
 | Name  | Platforms  |  Description | License  |  Last Update |
 |---|---|---|---|---|
-| [FreeRTOS](http://www.freertos.org)  |   |   |   |   |
+| [FreeRTOS](http://www.freertos.org)  | ARM Cortex-M, AVR, + Many More | Very popular real time operating system with tasks, queues, timers and synchornization primitives.  |  [GPLv2 + Exception](http://www.freertos.org/license.txt)  |  2016.05.25 |
 | [mynewt](http://mynewt.apache.org/) |   |   |   |   |
 | [mbed OS](https://www.mbed.com/en/development/software/mbed-os/)  |   |   |   |   |
 | [Zephyr](https://www.zephyrproject.org/)  |   |   |   |   |
