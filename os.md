@@ -24,6 +24,7 @@ List of embedded microcontroller platforms including:
 | [LiteBSD](https://github.com/sergev/LiteBSD)  | PIC32MZ  |  Variant of 4.4BSD Unix for microcontrollers | [BSD](https://github.com/sergev/LiteBSD/blob/master/COPYRIGHT)  |   |
 | [TinyOS](https://github.com/tinyos/tinyos-main)  |   |  TinyOS is an open source operating system designed for low-power wireless devices, such as those used in sensor networks, ubiquitous computing, personal area networks, smart buildings, and smart meters. | [BSD](https://github.com/tinyos/tinyos-main/blob/master/licenses/bsd.txt)  |   |
 | [Tock](http://www.tockos.org/)  |  Cortex-M |  Tock is an operating system designed for running multiple concurrent, mutually distrustful applications on Cortex-M based embedded platforms like the Storm. | [Apache](https://github.com/helena-project/tock/blob/master/LICENSE)  |   |
+| [Atomthreads](http://atomthreads.com/)  |  Cortex-M, AVR, STM8, MIPS |  Atomthreads is a free, lightweight, portable, real-time scheduler for embedded systems targeted at systems that need only a scheduler and the usual RTOS primitives  | [BSD Revised](http://atomthreads.com/?q=node/2)  | 2011.02.08  |
 
 ## Inactive / Deprecated
 
